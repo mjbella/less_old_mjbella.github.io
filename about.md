@@ -4,7 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Michael Bella
+
+I have a Bachelor of Science in Electrical Engineering from SJSU
+
+I am currently a Hardware Validation Engineer at Google where I work to ensure
+new data center hardware designs will work well when being built and installed
+in large volumes. 
+
+You can find me on [linkedin](https://www.linkedin.com/in/michaelbella/),
+[github](https://github.com/mjbella), 
+[twitter](https://twitter.com/MikeJBella)
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jekyll" %} /

@@ -1,5 +1,5 @@
 ---
-title: Main Projects Page
+title: Projects Page
 permalink: projects.html
 ---
 

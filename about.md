@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My name is Michael Bella
+My name is Michael Bella, I am an Electrical Engineer who likes to hack away at
+different projects in my spare time.
 
 I have a Bachelor of Science in Electrical Engineering from SJSU
 

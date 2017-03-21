@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Project Page
+title: My Projects
 ---
+
 
 <h1> My Project List</h1>
 {% for proj in site.Projects %}
     <div class="proj">
-        <h2><a href="{{ proj.url }}">{{ proj.title }}</a></h2>
+        <h4><a href="{{ proj.url }}">{{ proj.title }}</a></h4>
     </div>
 {% endfor %}

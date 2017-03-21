@@ -1,8 +1,15 @@
 ---
-layout: project
-title: test prokect
+layout: page
+title: test project
 ---
 
 
 page title
 ===========
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |

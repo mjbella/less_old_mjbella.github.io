@@ -25,7 +25,8 @@ twitter_username: MikeJBella
 github_username:  mjbella
 
 collections:
-  - Projects
+  Projects:
+    output: true
 
 
 # Build settings

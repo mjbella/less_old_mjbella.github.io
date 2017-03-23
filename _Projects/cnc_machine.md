@@ -13,4 +13,7 @@ from him about 10 years ago. I added in a Z-axis from [Velox CNC](http://www.vel
 * [Hitachi Router to Z-axis Mount](http://www.veloxcnc.com/proddetail.asp?prod=RM-Hitachi "Hitachi Router to Z-axis Mount")
 * [Z-axis](http://www.veloxcncrouters.com/_p/prd1/3175351321/product/za1200qr-3----12%22-travel "Z-axis")
 
+### Pictures
+(Coming soon)
+{: style="color:gray; font-size: 80%;"}
 

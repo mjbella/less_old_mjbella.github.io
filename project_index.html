@@ -3,10 +3,13 @@ layout: page
 title: My Projects
 ---
 
+<style> .indented {   padding-left: 50pt;   padding-right: 50pt; } </style> 
 
 <h1> My Project List</h1>
+<p class="indented">
 {% for proj in site.Projects %}
     <div class="proj">
         <h4><a href="{{ proj.url }}">{{ proj.title }}</a></h4>
     </div>
 {% endfor %}
+</p>
